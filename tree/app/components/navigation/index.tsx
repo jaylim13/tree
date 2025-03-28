@@ -18,3 +18,5 @@ const Navigation = () => {
 
 export default Navigation;
 
+/* navbar and sidebar base from https://github.com/AnastasiiaPirus/source-code-for-blogs/tree/main/next-navigation-bar*/
+
